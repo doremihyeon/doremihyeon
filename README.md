@@ -4,10 +4,10 @@
 
 ![doremihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=doremihyeon&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doremihyeon&layout=compact&theme=onedark)
-[![Solved.acdoremigus](http://mazassumnida.wtf/api/mini/generate_badge?boj={doremihyeon})](https://solved.ac/{doremihyeon})
+[![Solved.acdoremigus](http://mazassumnida.wtf/api/v2/generate_badge?boj=doremigus)](https://solved.ac/doremigus)
 # 💪Skills
 ### Platforms & Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=purple)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
