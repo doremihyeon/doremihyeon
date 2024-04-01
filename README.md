@@ -7,7 +7,6 @@
 [![Solved.acdoremigus](http://mazassumnida.wtf/api/mini/generate_badge?boj={doremihyeon})](https://solved.ac/{doremihyeon})
 # 💪Skills
 ### Platforms & Languages
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 ![Python](https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=purple)
 
 ### Tools
