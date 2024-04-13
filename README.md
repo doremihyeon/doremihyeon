@@ -6,6 +6,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doremihyeon&layout=compact&theme=onedark)
 [![Solved.acdoremigus](http://mazassumnida.wtf/api/v2/generate_badge?boj=doremigus)](https://solved.ac/doremigus)
 # 💪Skills
+### Studying
+![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=ffffff)
+
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
 
