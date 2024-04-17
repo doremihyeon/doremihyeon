@@ -14,9 +14,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/JAVA-%23FF160B" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=c%2B%2B&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" alt="TypeScript logo" title="TypeScript" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/-%23A8B9CC?logo=c&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
 
 ### Platforms & Languages
 &nbsp;
