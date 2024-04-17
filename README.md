@@ -7,11 +7,20 @@
 [![Solved.acdoremigus](http://mazassumnida.wtf/api/v2/generate_badge?boj=doremigus)](https://solved.ac/doremigus)
 # 💪Skills
 ### Studying
-![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=ffffff)
-![css3](https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=ffffff)
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JAVA-%23FF160B" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=c%2B%2B&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
 ### Platforms & Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ffffff)
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
