@@ -26,3 +26,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 
+# 🪪 License and Certificate
+<a href="https://www.credly.com/badges/b35910cd-1ba3-4dc4-9ef2-b00ca2225c5b/public_url"><img src="https://github.com/doremihyeon/doremihyeon/assets/68884608/63ea7e98-da4b-4288-abf4-c2e73b701631" alt="microsoft-certified-azure-ai-fundamentals" width="100" height="100"/></a>
