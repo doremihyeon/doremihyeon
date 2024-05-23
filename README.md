@@ -36,5 +36,5 @@
 <a href="https://www.credly.com/badges/b35910cd-1ba3-4dc4-9ef2-b00ca2225c5b/public_url"><img src="https://github.com/doremihyeon/doremihyeon/assets/148046321/8f8fccfb-41c5-456a-ad04-d5151195d73d" alt="microsoft-certified-azure-ai-fundamentals" width="100" height="100"/></a>
 
 # 📧Address
-<a href="mailto:algus04617@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
+<a href="mailto:algus04617@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></a>
 <a href="https://instagram.com/doremi_hyeon7160"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
