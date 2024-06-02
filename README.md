@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/pycharm-000000.svg?logo=pycharm&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
 
 # 🪪License and Certificate
-<a href="https://www.credly.com/earner/earned/badge/4e45ac95-017a-48f9-b594-7cda1ff1f5b3"><img src="https://github.com/doremihyeon/doremihyeon/assets/148046321/8f8fccfb-41c5-456a-ad04-d5151195d73d" alt="microsoft-certified-azure-ai-fundamentals" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/4e45ac95-017a-48f9-b594-7cda1ff1f5b3/public_url"><img src="https://github.com/doremihyeon/doremihyeon/assets/148046321/8f8fccfb-41c5-456a-ad04-d5151195d73d" alt="microsoft-certified-azure-ai-fundamentals" width="100" height="100"/></a>
 
 # 📧Address
 <a href="mailto:algus04617@gmail.com"><img src="https://img.shields.io/badge/algus04617@gmail.com-D14836?logo=gmail&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></a>
