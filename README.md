@@ -37,4 +37,3 @@
 
 # 📧Address
 <a href="mailto:algus04617@gmail.com"><img src="https://img.shields.io/badge/algus04617@gmail.com-D14836?logo=gmail&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></a>
-<a href="https://instagram.com/doremi_hyeon7160"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
