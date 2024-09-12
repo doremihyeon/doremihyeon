@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/C-%23466093?logo=c&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
 <br>
 <h3> 🔠 Platforms & Languages </h3>
 <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
