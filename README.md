@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=897EBA&text=doremihyeon🏀💜&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=897EBA&text=MH🏀💜&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
 ![doremihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=doremihyeon&show_icons=true&theme=tokyonight)
 [![Solved.acdoremigus](http://mazassumnida.wtf/api/v2/generate_badge?boj=doremigus)](https://solved.ac/doremigus)
